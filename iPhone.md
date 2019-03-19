@@ -15,9 +15,9 @@ Here's my thing on tools. It exists to get a job done. It doesn't have to be shi
 
 I tend to use the same tools until they break or deliver an inferior experience. There might be better tools out there by now, but I rarely have the time to re-assess the dozens of tools I rely on every few weeks.
 
-Take Apple Maps for an example. When it came out, circa iOS 6, I really wanted it to succeed. Good on you, Apple, for figuring this out. It's a really hard problem to solve. But it was a disaster. Google delivered a polished, finished product a few weeks after iOS 6 was launched. I've been using that ever since and haven't looked back.
+Take Apple Maps for an example. When it came out, circa iOS 6, I really wanted it to succeed. Good on you, Apple, for figuring this out. It's a really hard problem to solve. But it was a disaster. Google delivered a polished, finished product a few weeks after iOS 6 was launched. I've been using that ever since.
 
-I'm sure Apple Maps has improved a lot over the last few years. But Google Maps does everything I need and is free to use. Until Google changes their mind on pricing or screws up their software in a terrible way, I'm not going to bother looking at other options. I'd rather spend my time at the dog park, or going to the beach, or trying a new coffee shop or reading a new book. Not screwing around with random tech things.
+I'm sure Apple Maps has improved a lot over the last few years. But Google Maps does everything I need and is free to use. Until Google changes their mind on pricing or screws up their software in a terrible way, I'm not going to bother looking at other options. I'd rather spend my time at the dog park, or going to the beach, or trying a new coffee shop or reading a new book.
 
 ## Good things
 * Form factor is excellent.
