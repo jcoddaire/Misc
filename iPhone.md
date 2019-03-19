@@ -2,22 +2,22 @@
 
 This is a current running list of issues with my phone. I would love for some smart people at phone companies to fix these issues, but really it's just a way for me to explain to my brother why iPhones aren't all they're cracked up to be.
 
-## Current Phone
-
-* iPhone SE
-* 64 GB
-* Space Grey
-* iOS 12.1.4
-
 ## Philosophy
 
 Here's my thing on tools. It exists to get a job done. It doesn't have to be shiny, or fancy, or insanely expensive. It simply needs to do a few things really well.
 
 I tend to use the same tools until they break or deliver an inferior experience. There might be better tools out there by now, but I rarely have the time to re-assess the dozens of tools I rely on every few weeks.
 
-Take Apple Maps for an example. When it came out, circa iOS 6, I really wanted it to succeed. Good on you, Apple, for figuring this out. It's a really hard problem to solve. But it was a disaster. Google delivered a polished, finished product a few weeks after iOS 6 was launched. I've been using that ever since.
+Take Apple Maps for an example. When it came out, circa iOS 6, I really wanted it to succeed. Good on you, Apple, for figuring this out. It's a really hard problem to solve. But it was a disaster. Google delivered a polished, finished product a few weeks after iOS 6 launched. I've been using that ever since.
 
 I'm sure Apple Maps has improved a lot over the last few years. But Google Maps does everything I need and is free to use. Until Google changes their mind on pricing or screws up their software in a terrible way, I'm not going to bother looking at other options. I'd rather spend my time at the dog park, or going to the beach, or trying a new coffee shop or reading a new book.
+
+## Current Phone
+
+* iPhone SE
+* 64 GB
+* Space Grey
+* iOS 12.1.4
 
 ## Good things
 * Form factor is excellent.
